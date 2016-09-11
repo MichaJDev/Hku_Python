@@ -1,3 +1,6 @@
+**WAARSCHUWING** 
+> NEEM DIT NIET KLAKKELOOS OVER, IK BIED EEN UITLEG WAARDOOR JE HET ZELF GAAT SNAPPEN, ZODRA JE DIT OVERNEEMT EN GEBRUIKT IN DE LES IS HET LETTERLIJK FRAUDE, DIT BETEKENT DAT JE DAARDOOR VAN SCHOOL GESTUURD KAN WORDEN. EN DAT WIL IK NIET OFCOURSE DUS WEES GEWAARSCHUUWD
+
 **Uitleg Lab 1**
 > Het eerste wat ik doe is het printen van hello world, het gene wat ik print komt te staan tussen "" want het is een text en dit word altijd geplaatst tussen "" want dan weet de programmeer taal dat dit normale text is en geen opdracht.
 
