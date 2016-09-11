@@ -1,3 +1,5 @@
+**WAARSCHUWING** 
+> NEEM DIT NIET KLAKKELOOS OVER, IK BIED EEN UITLEG WAARDOOR JE HET ZELF GAAT SNAPPEN, ZODRA JE DIT OVERNEEMT EN GEBRUIKT IN DE LES IS HET LETTERLIJK FRAUDE, DIT BETEKENT DAT JE DAARDOOR VAN SCHOOL GESTUURD KAN WORDEN. EN DAT WIL IK NIET OFCOURSE DUS WEES GEWAARSCHUUWD
 **Uitleg Lab2**
 
 > We beginnen de opdracht met het aanmaken van alle benodigde variablen, ik heb deze totaal geen namen gegeven die ergens op slaan ze zijn gewoon van alfabetische volgorde
