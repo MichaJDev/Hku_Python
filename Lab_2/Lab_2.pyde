@@ -19,13 +19,13 @@ def draw():
     fill(0,0,255)
     rect(a,b,80,80) 
     if(c == False):   
-        a = (a + 1) 
-        b = (b + 1) 
+        a = (a + 1) % width
+        b = (b + 1) % height
         if(a >= 320 and b >= 320):
             c = True
     else:
-        a = (a-1) 
-        b = (b-1) 
+        a = (a-1) % width
+        b = (b-1) % height
         if(a <= 0 and b <= 0):
             c = False
 
