@@ -16,7 +16,6 @@ def draw():
     global d
     global e
     global f
-    background(0)
     fill(0,0,255)
     rect(a,b,80,80) 
     if(c == False):   
