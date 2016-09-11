@@ -9,7 +9,6 @@ def setup():
     size(400,400)
     background(0)
     noStroke()
-    fill(102)
 def draw():
     global a
     global b
