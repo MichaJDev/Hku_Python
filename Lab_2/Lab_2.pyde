@@ -1,5 +1,5 @@
-a=0
-b=0
+a = 0
+b = 0
 c = False
 
 d = 0
@@ -19,15 +19,16 @@ def draw():
     fill(0,0,255)
     rect(a,b,80,80) 
     if(c == False):   
-        a = (a+3) 
-        b = (b+3) 
+        a = (a + 1) 
+        b = (b + 1) 
         if(a >= 320 and b >= 320):
             c = True
     else:
-        a = (a-3) 
-        b = (b-3) 
+        a = (a-1) 
+        b = (b-1) 
         if(a <= 0 and b <= 0):
             c = False
+
     fill(255,165,0)
     ellipse(d,e,40,40)
     if (f == False):
