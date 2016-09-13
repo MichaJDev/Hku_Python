@@ -27,6 +27,13 @@ onze achtegrond word zwart en we willen geen omlijning
 > als je een lijn om alle getekende objecten wilt dan hoef je het gedeelte "noStroke()" niet toe te voegen, wil je dat niks een omlijning heeft doe dan als volgt
 
 ```python
+background(0)
+```
+
+> Ik plaats hier background(0) nog een keer zodat de oude rectangle word verwijdert en daarna weer een nieuwe word getekent op de nieuwe positie
+
+
+```python
 size(400,400)
 background(0)
 noStroke()
