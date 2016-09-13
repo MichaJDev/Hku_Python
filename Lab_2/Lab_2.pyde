@@ -10,6 +10,7 @@ def setup():
     background(0)
     noStroke()
 def draw():
+    background(0)
     global a
     global b
     global c
