@@ -27,7 +27,7 @@ size(1024,1024)
 
 > Het volgende wat we doen is de kleur van het vierkant maken, ik maak deze rood, deze waarde is in RGB waarde dus 255,255,255 = wit en 0,0,0 is zwart etc meer hier over is te vinden op http://www.w3schools.com/colors/colors_rgb.asp (Dit is misschien voor HTML maar is een goed voorbeeld 
 
-````python
+```python
 fill(255,0,0)
 ```
 
